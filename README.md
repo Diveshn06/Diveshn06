@@ -10,15 +10,24 @@ I enjoy working with data to uncover insights that drive business decisions.
 ---
 
 ## 🔧 Skills & Tools
-- **SQL** (Joins, Subqueries, Window Functions)
+- **SQL** (Joins, Subqueries, Window Functions, CTEs, Views)
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **Excel** (Pivot Tables, Dashboards)
-- **Power BI** (Interactive dashboards, KPIs)
+- **Excel** (Pivot Tables, Dashboards, Data Cleaning)
+- **Power BI** (Interactive Dashboards, KPIs, DAX)
 - **Statistics** (EDA, Hypothesis Testing, A/B Testing)
 
 ---
 
 ## 📊 Featured Projects
+
+### 🔹 Training Engagement & Team Allocation (SQL + Power BI)
+End-to-end analytics project on training participation data of 200+ people.
+Cleaned raw Excel data using SQL, calculated engagement KPIs, assigned balanced
+male/female teams using window functions, and built a Power BI dashboard for
+lead performance, room planning, and follow-up tracking.  
+👉 https://github.com/Diveshn06/training-engagement-sql-powerbi
+
+---
 
 ### 🔹 Sales Funnel Analysis (SQL + Power BI)
 End-to-end analysis of sales funnel performance with KPIs,
@@ -49,7 +58,7 @@ customer behavior, repeat purchases, and revenue trends.
 ---
 
 ## 🤝 Let’s Connect
-- 📧 Email: diveshn06@gmail.com
-- 💼 LinkedIn:
+- 📧 Email: diveshn06@gmail.com  
+- 💼 LinkedIn: (add your LinkedIn URL here)
 
 Thanks for visiting my profile! 😊

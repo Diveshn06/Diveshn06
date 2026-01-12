@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboard-yellow" />
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-green" />
+  <img src="https://img.shields.io/badge/Excel-Analytics-brightgreen" />
+</p>
+
 # Hi, I'm Divesh Negi 👋
 
 🎯 Aspiring **Data Analyst / Junior Data Scientist**  

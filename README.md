@@ -7,12 +7,12 @@
 
 # Hi, I'm Divesh Negi 👋
 
-🎯 Aspiring **Data Analyst / Junior Data Scientist**  
+**🎯 Data Analyst | SQL, Power BI, Python, Excel**  
 📍 Noida / Gurgaon, India  
 
-I am a Computer Science graduate (2017) transitioning into data analytics with
-strong hands-on experience in **SQL, Python, Excel, and Power BI**.
-I enjoy working with data to uncover insights that drive business decisions.
+I am a Computer Science graduate (2017) with strong hands-on experience in **SQL, Python, Excel, and Power BI.**
+I work with data to uncover insights that drive business and operational decisions.
+
 
 ---
 
@@ -29,7 +29,7 @@ I enjoy working with data to uncover insights that drive business decisions.
 
 ### 🔹 Training Engagement & Team Allocation (SQL + Power BI)
 End-to-end analytics project on training participation data of 200+ people.
-Cleaned raw Excel data using SQL, calculated engagement KPIs, assigned balanced
+Cleaned and standardized raw participant data using SQL, calculated engagement KPIs, assigned balanced
 male/female teams using window functions, and built a Power BI dashboard for
 lead performance, room planning, and follow-up tracking.  
 👉 https://github.com/Diveshn06/training-engagement-sql-powerbi

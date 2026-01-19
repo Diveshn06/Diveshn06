@@ -66,6 +66,6 @@ customer behavior, repeat purchases, and revenue trends.
 
 ## 🤝 Let’s Connect
 - 📧 Email: diveshn06@gmail.com  
-- 💼 LinkedIn: (add your LinkedIn URL here)
+- 💼 LinkedIn: (https://www.linkedin.com/in/divesh-negi-a0aa3a3a6/)
 
 Thanks for visiting my profile! 😊

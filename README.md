@@ -27,6 +27,12 @@ I work with data to uncover insights that drive business and operational decisio
 
 ## 📊 Featured Projects
 
+🔹 FMCG Promotion Performance Dashboard (SQL + Power BI)
+
+End-to-end analytics project analyzing promotional campaign performance for an FMCG retail business. Built a star-schema data model, performed SQL analysis, and developed an interactive Power BI dashboard to track revenue, campaign effectiveness, and store performance.
+
+👉 https://github.com/Diveshn06/fmcg-promotion-performance-dashboard
+
 ### 🔹 Training Engagement & Team Allocation (SQL + Power BI)
 End-to-end analytics project on training participation data of 200+ people.
 Cleaned and standardized raw participant data using SQL, calculated engagement KPIs, assigned balanced
